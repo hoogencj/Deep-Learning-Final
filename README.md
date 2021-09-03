@@ -1,0 +1,3 @@
+This is the final project for CS 5891, Special Topics: Deep Learning. 
+The goal of this project was to use deep neural networks and data from NBA games to predict simple game outcomes like winner, loser, and score, as well trying to find favorable sportsbook odds. 
+The project found some success, with the ability to predict the winner of an NBA game up to 61% of the time, a figure comparable to those in published machine learning analyses on the NBA. Additionally, the program was able to calculate the outcome of over/under bets >50% of the time, which means the program is beating the expected value for a human gambler. 
